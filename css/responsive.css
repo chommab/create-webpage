@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+    .btnBox {
+      flex-wrap: wrap;
+      width: 90%;
+      max-width: 500px;
+      top: auto;
+      bottom: 0;
+      transform: translateY(50%);
+    }
+  
+    .btnBox img {
+      margin-top: 200px;
+    }
+  }
+  
